@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:news_app/design/widgets/article_builder.dart';
+import '../../design/widgets/article_builder.dart';
 import '../../logic/bloc/news_bloc.dart';
 
 class ScienceScreen extends StatelessWidget {
