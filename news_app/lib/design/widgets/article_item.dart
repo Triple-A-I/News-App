@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:news_app/modules/webview/webview_screen.dart';
+import '../../modules/webview/webview_screen.dart';
 
 Widget buildArticleItem(article, context) {
   return InkWell(
